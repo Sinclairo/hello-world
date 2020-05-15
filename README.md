@@ -1,3 +1,3 @@
 # hello-world
 My first repository
-Hello, my name is sinclair, I like chicken alfredo and I have waves. I am inspired by my ambitions to change the world.
+Hello, my name is sinclair, and I am thrilled to learn more about the digital life & coding!I am inspired by my ambition to change the world.
